@@ -25,7 +25,7 @@
 
 ## Forefront company sites
 
-   > This site are developed under my team.
+   > This site developed under my team.
 
  *  [ForeFront Infotech](http://forefrontinfotech.com)
  *  [nopCommerceplus](http://nopcommerceplus.com)
@@ -33,7 +33,7 @@
 
 ## nopCommerce Customization Projects
    
-   > Most of project i've made and some of under my team.
+   > Most of project i've made and some of developed under my team.
 
  *  [ImaStudent](https://www.imastudent.com)
  *  [HouseLabel](https://www.houselabels.com)
@@ -125,6 +125,16 @@
     * Gold Price Update
     * Mercadolibre
 
+ ## Asp-Net Zero    
+
+ * Navison Management
+
+
+ #  :tada: :rocket: :metal:  Got Official Recognization From well-Known Sites       :tada: :rocket: :metal:
+
+  ####       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
+  ####       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
+  ####       3. nopcommerce Certified(https://www.nopcommerce.com/certified-developers?country=ind) 
 
          
          
