@@ -116,7 +116,9 @@
  * Fast AMP - Paypal Subcription
  * STL Reader 
  * Smart Store Query Dash widgets 
- * Third Party API  
+ 
+ * ## Third Party API 
+
     * Shipping Rule
     * Top-Up - Transfer-To API Mobile Recharge
     * Instagram 
