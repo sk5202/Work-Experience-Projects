@@ -5,7 +5,7 @@
    > This project developed with angular 8 and API using Asp.Net Core 
 
  * Chat application
- * Forensic nores
+ * Forensic notes
  * Mibrethren
 
 ## Asp.Net MVC, Asp.Net Core and Desktop Application 
@@ -103,6 +103,28 @@
  *	Discount On Payment Method
  *	Discount On Current Shopping Cart Sub-Total
  *	Discount Must Not Be Assigned Customer role
+
+  ## Custom Extention(nopCommerce and smartstore) Developed Based On Client Requirement 
+ 
+ * Recipe 	
+ * Customer Notification 
+ * Jcob
+ * Filter 
+ * Promotion popup	
+ * Metzeler Concreate - Help Desk
+ * Rental Search Extended
+ * Fast AMP - Paypal Subcription
+ * STL Reader 
+ * Smart Store Query Dash widgets 
+
+  #### Third Party API 
+  
+      * Shipping Rule    
+      *	Top-up - Mobile Recharge 
+      *	Instagram 
+      * Gold Price Update
+      * Mercadolibre
+
 
          
          
