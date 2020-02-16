@@ -1,3 +1,11 @@
+ # :metal: Got Official Recognization From WellKnown Plateform :metal:
+
+   ###       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
+   ###       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
+   ###       3. [nopCommerce Certified Developer](https://www.nopcommerce.com/certified-developers?country=ind)  
+  
+
+  
    # :sparkles: Work-Experienced-Projects :sparkles:
 
 ## Angular Project
@@ -130,11 +138,7 @@
 
  * Navison Management
 
- # :metal: Got Official Recognization From WellKnown Plateform :metal:
 
-   ###       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
-   ###       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
-   ###       3. [nopCommerce Certified Developer](https://www.nopcommerce.com/certified-developers?country=ind)
 
          
          
