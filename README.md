@@ -2,7 +2,7 @@
 
 ## Forefront company sites
 
-    [I'm an inline-style link](https://www.google.com)
+   [GitHub](http://github.com)
 
          
         
