@@ -7,6 +7,8 @@
  *  [nopExpress](https://www.nopexpress.com)
 
 ## nopCommerce Customization Projects
+   
+   Most of project i've made and some of under mine.
 
  *  [ImaStudent](https://www.imastudent.com)
  *  [HouseLabel](https://www.houselabels.com)
@@ -46,8 +48,38 @@
  *  Legal Bluff
  *  Course management
  *  Hydock
+
+
+ ## List Of Products 
+
+    I've experiance with below producs which totally based on [nopCommerce](http://nopcommerce.com)
+
+    Most of extentions i've made and some of thoes developed under mine.  
  
- 
+*	ShipStation
+*	Report - Charts and tables
+*	Algolia Search
+*	QuickBook 
+*	Payubiz
+*	Stripe
+*	nopCommerce store API
+*	Accomodation Reservation Booking System Plugin
+*	All In One Reminder
+*	Classic Gallery Plugin
+*	Video Slider Plugin
+*	Deal Trigger
+*	Request A Quote 
+*	Frequently Asked Question
+*	Testimonial Slider
+*	Mega Menu
+*	Frequently Bought Together
+*	Book My Seat
+*	Any Place Slider
+*	Has One Category Discount Requirement 
+*	Discount On Payment Method
+*	Discount On Current Shopping Cart Sub-Total
+*	Discount Must Not Be Assigned Customer role
+
          
          
          
