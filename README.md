@@ -50,11 +50,11 @@
  *  Hydock
 
 
- ## List Of Products 
-
-    I've experiance with below producs which totally based on [nopCommerce](http://nopcommerce.com)
-
-    Most of extentions i've made and some of thoes developed under mine.  
+ ## nopCommerce Products 
+  
+  I've experianced with below producs which totally based on [nopCommerce](https://www.nopcommerce.com/)
+    
+  Most of extentions i've made and some of thoes developed under mine.  
  
 *	ShipStation
 *	Report - Charts and tables
