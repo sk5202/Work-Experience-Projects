@@ -116,10 +116,10 @@
  * Fast AMP - Paypal Subcription
  * STL Reader 
  * Smart Store Query Dash widgets 
+ * Shipping Rule
  
  * ## Third Party API 
 
-    * Shipping Rule
     * Top-Up - Transfer-To API Mobile Recharge
     * Instagram 
     * Gold Price Update
@@ -133,7 +133,7 @@
 
    ###       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
    ###       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
-   ###       3. [nopcommerce Certified Developer](https://www.nopcommerce.com/certified-developers?country=ind)
+   ###       3. [nopCommerce Certified Developer](https://www.nopcommerce.com/certified-developers?country=ind)
 
          
          
