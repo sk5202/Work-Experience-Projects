@@ -104,7 +104,7 @@
  *	Discount On Current Shopping Cart Sub-Total
  *	Discount Must Not Be Assigned Customer role
 
-  ## Custom Extention(nopCommerce and smartstore) Developed Based On Client Requirement 
+  ## Custom Extention (nopCommerce and Smart-Store) Developed Based On Client Requirement 
  
  * Recipe 	
  * Customer Notification 
@@ -117,13 +117,13 @@
  * STL Reader 
  * Smart Store Query Dash widgets 
 
-  #### Third Party API 
+  ### Third Party API 
   
-      * Shipping Rule    
-      *	Top-up - Mobile Recharge 
-      *	Instagram 
-      * Gold Price Update
-      * Mercadolibre
+    * Shipping Rule
+    * Top-Up - Transfer-To API Mobile Recharge
+    * Instagram 
+    * Gold Price Update
+    * Mercadolibre
 
 
          
