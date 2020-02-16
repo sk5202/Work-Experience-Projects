@@ -2,14 +2,10 @@
 
 ## Forefront company sites
 
- * ForeFront       - [ForeFront](http://forefrontinfotech.com)
- * nopCommerceplus - [nopCommerceplus](http://nopcommerceplus.com/)
- * nopExpress      - [nopExpress](https://www.nopexpress.com/)
+ * ForeFront       - [http://forefrontinfotech.com](http://forefrontinfotech.com)
+ * nopCommerceplus - [http://nopcommerceplus.com](http://nopcommerceplus.com)
+ * nopExpress      - [https://www.nopexpress.com](https://www.nopexpress.com)
 
-         
-        
-         
-         
 
 # nopCommerce Customization Projects
 
