@@ -124,6 +124,7 @@
     * Instagram 
     * Gold Price Update
     * Mercadolibre
+    * Social Site Integration (Facebook, Google, Linkdn)
 
  ## Asp-Net Zero    
 
