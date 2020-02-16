@@ -129,12 +129,11 @@
 
  * Navison Management
 
+ #  :metal:  Got Official Recognization From well-Known Sites  :metal:
 
- #  :tada: :rocket: :metal:  Got Official Recognization From well-Known Sites       :tada: :rocket: :metal:
-
-  ####       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
-  ####       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
-  ####       3. nopcommerce Certified(https://www.nopcommerce.com/certified-developers?country=ind) 
+  ###       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
+  ###       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
+  ###       3. [nopcommerce Certified](https://www.nopcommerce.com/certified-developers?country=ind) 
 
          
          
