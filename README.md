@@ -135,7 +135,7 @@
 
    ###       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
    ###       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
-   ###       3. [nopcommerce Certified](https://www.nopcommerce.com/certified-developers?             country=ind) 
+   ###       3. [nopcommerce Certified Developer](https://www.nopcommerce.com/certified-developers?country=ind)
 
          
          
