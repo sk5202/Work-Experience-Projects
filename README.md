@@ -1,5 +1,27 @@
    # :sparkles: Work-Experienced-Projects :sparkles:
 
+## Angular Project
+
+   > This project developed with angular 8 and API using Asp.Net Core 
+
+ * Chat application
+ * Forensic nores
+ * Mibrethren
+
+## Asp.Net MVC, Asp.Net Core and Desktop Application 
+
+  > Below are custom project and thoes developed from scretch.
+
+ *	Emuna
+ *	HourGlass
+ *	ElephantGlass
+ *	Energy Efficiency Calculator
+ *	EnquireMe 
+ *	Cheque Writing Bridge
+ *	Diamond Quotation
+ *	Pay-Roll
+ *  Chat Desktop Application
+
 
 ## Forefront company sites
 
@@ -11,7 +33,7 @@
 
 ## nopCommerce Customization Projects
    
-   > Most of project i've made and some of under mine.
+   > Most of project i've made and some of under my team.
 
  *  [ImaStudent](https://www.imastudent.com)
  *  [HouseLabel](https://www.houselabels.com)
@@ -56,7 +78,7 @@
  ## nopCommerce Products 
   
    > I've experianced with below producs which totally based on [nopCommerce](https://www.nopcommerce.com/) 
-   > Most of extentions i've made and some of thoes developed under mine.  
+   > Most of extentions i've made and some of thoes developed under my team.  
  
  *	ShipStation
  *	Report - Charts and tables
