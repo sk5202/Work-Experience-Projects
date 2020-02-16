@@ -1,10 +1,13 @@
 # Work-Experienced-Projects
 
 ## Forefront company sites
+
+    [I'm an inline-style link](https://www.google.com)
+
          
-         Forefront	-  [Forefront infotech](http://forefrontinfotech.com/)
-         nopCommercePlus	-  http://www.nopcommerceplus.com/
-         nopExpress        -  https://www.nopexpress.com/
+        
+         
+         
 
 # nopCommerce Customization Projects
 
