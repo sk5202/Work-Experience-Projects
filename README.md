@@ -1,4 +1,4 @@
- # :metal: Got Official Recognization From WellKnown Plateform :metal:
+ # :metal:Got Official Recognization From WellKnown Plateform:metal:
 
    ###       1. [C-Sharp Corner MVP](https://www.c-sharpcorner.com/members/smiten-kalathiya3)
    ###       2. [nopCommerce MVP](https://www.nopcommerce.com/mvp)
