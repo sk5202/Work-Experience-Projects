@@ -134,6 +134,7 @@
     * Gold Price Update
     * Mercadolibre
     * Social Site Integration (Facebook, Google, Linkdn)
+    * WaffiPay payment gateway
 
  ## Asp-Net Zero    
 
